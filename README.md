@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="ban.png" alt="Banner de Juan Mayta" width="85%">
+  <img src="ban.png" alt="Banner de Juan Mayta" width="1200px">
 </p>
-
 ---
 
 <h1 align="center">👋 ¡Hola Mundo! Soy Juan Mayta</h1>

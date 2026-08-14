@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner de Juan Mayta" width="85%">
+  <img src="ban.png" alt="Banner de Juan Mayta" width="85%">
 </p>
 
 ---

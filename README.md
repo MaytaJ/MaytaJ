@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner de Juan Mayta" width="100%">
+</p>
+
+
 <h1 align="center">👋 ¡Hola Mundo! Soy Juan Mayta</h1>
 <h3 align="center">Desarrollador Backend | Apasionado por Java y la arquitectura limpia</h3>
 

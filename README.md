@@ -37,4 +37,4 @@
 ---
 
 ### 💬 Frase que me define
-> “Minimal dev: menos ruido, más código.”
+> "Aprendiendo, creando y rompiendo cosas (con estilo)"
